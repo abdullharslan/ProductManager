@@ -1,5 +1,7 @@
 # ProductManager
 
+PROJECT STRUCTURE
+
 ProductManager/
 ├── src/
 │   ├── ProductManager.API/
