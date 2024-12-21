@@ -1,0 +1,17 @@
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/bin/Debug/net8.0/ProductManager.Infrastructure.deps.json
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/bin/Debug/net8.0/ProductManager.Infrastructure.runtimeconfig.json
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/bin/Debug/net8.0/ProductManager.Infrastructure.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/bin/Debug/net8.0/ProductManager.Infrastructure.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/bin/Debug/net8.0/ProductManager.Core.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/bin/Debug/net8.0/ProductManager.Core.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.csproj.AssemblyReference.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.AssemblyInfo.cs
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductM.E192A9C7.Up2Date
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/refint/ProductManager.Infrastructure.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.genruntimeconfig.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ref/ProductManager.Infrastructure.dll

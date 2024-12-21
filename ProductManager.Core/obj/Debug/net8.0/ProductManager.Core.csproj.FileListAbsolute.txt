@@ -1,0 +1,11 @@
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/bin/Debug/net8.0/ProductManager.Core.deps.json
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/bin/Debug/net8.0/ProductManager.Core.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/bin/Debug/net8.0/ProductManager.Core.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ProductManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ProductManager.Core.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ProductManager.Core.AssemblyInfo.cs
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ProductManager.Core.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ProductManager.Core.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/refint/ProductManager.Core.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ProductManager.Core.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/Debug/net8.0/ref/ProductManager.Core.dll

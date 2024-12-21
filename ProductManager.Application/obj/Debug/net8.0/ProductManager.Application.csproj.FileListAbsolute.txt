@@ -1,0 +1,15 @@
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/bin/Debug/net8.0/ProductManager.Application.deps.json
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/bin/Debug/net8.0/ProductManager.Application.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/bin/Debug/net8.0/ProductManager.Application.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/bin/Debug/net8.0/ProductManager.Core.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/bin/Debug/net8.0/ProductManager.Core.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.csproj.AssemblyReference.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.AssemblyInfo.cs
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductM.B6266756.Up2Date
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/refint/ProductManager.Application.dll
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ProductManager.Application.pdb
+/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/Debug/net8.0/ref/ProductManager.Application.dll
