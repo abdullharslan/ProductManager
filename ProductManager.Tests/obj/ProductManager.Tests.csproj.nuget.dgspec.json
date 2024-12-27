@@ -4,14 +4,176 @@
     "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj": {}
   },
   "projects": {
-    "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj": {
+    "/Users/abdullah/Desktop/ProductManager/ProductManager.API/ProductManager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj",
-        "projectName": "ProductManager.Tests",
-        "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj",
+        "projectUniqueName": "/Users/abdullah/Desktop/ProductManager/ProductManager.API/ProductManager.API.csproj",
+        "projectName": "ProductManager.API",
+        "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.API/ProductManager.API.csproj",
         "packagesPath": "/Users/abdullah/.nuget/packages/",
-        "outputPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/obj/",
+        "outputPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj"
+              },
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/abdullah/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj",
+        "projectName": "ProductManager.Application",
+        "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/abdullah/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj",
+        "projectName": "ProductManager.Core",
+        "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/abdullah/.nuget/NuGet/NuGet.Config"
@@ -43,10 +205,189 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/abdullah/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj",
+        "projectName": "ProductManager.Infrastructure",
+        "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/abdullah/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj",
+        "projectName": "ProductManager.Tests",
+        "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/ProductManager.Tests.csproj",
+        "packagesPath": "/Users/abdullah/.nuget/packages/",
+        "outputPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdullah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.API/ProductManager.API.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.API/ProductManager.API.csproj"
+              },
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Application/ProductManager.Application.csproj"
+              },
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Core/ProductManager.Core.csproj"
+              },
+              "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj": {
+                "projectPath": "/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/ProductManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Testcontainers.PostgreSql": {
+              "target": "Package",
+              "version": "[3.6.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -54,11 +395,13 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.6.2, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.5.4, )"
             }
           },
           "imports": [
