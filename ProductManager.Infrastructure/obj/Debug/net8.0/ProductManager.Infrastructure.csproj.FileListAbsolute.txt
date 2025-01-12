@@ -9,6 +9,7 @@
 /Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.AssemblyInfoInputs.cache
 /Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.AssemblyInfo.cs
 /Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.sourcelink.json
 /Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductM.E192A9C7.Up2Date
 /Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/ProductManager.Infrastructure.dll
 /Users/abdullah/Desktop/ProductManager/ProductManager.Infrastructure/obj/Debug/net8.0/refint/ProductManager.Infrastructure.dll
